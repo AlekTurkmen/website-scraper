@@ -1,0 +1,50 @@
+[
+    {
+        "label": "gifts",
+        "link": "/gifts"
+    },
+    {
+        "label": "interests",
+        "link": "/interests"
+    },
+    {
+        "label": "fun",
+        "link": "/fun"
+    },
+    {
+        "label": "birthday",
+        "link": "/birthday"
+    },
+    {
+        "label": "for-him",
+        "link": "/for-him"
+    },
+    {
+        "label": "for-her",
+        "link": "/for-her"
+    },
+    {
+        "label": "for-kids",
+        "link": "/for-kids"
+    },
+    {
+        "label": "kitchen-bar",
+        "link": "/kitchen-bar"
+    },
+    {
+        "label": "home-garden",
+        "link": "/home-garden"
+    },
+    {
+        "label": "jewelry",
+        "link": "/jewelry"
+    },
+    {
+        "label": "experiences",
+        "link": "/experiences"
+    },
+    {
+        "label": "valentines-day",
+        "link": "/valentines-day"
+    }
+]
